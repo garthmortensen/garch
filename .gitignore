@@ -15,3 +15,6 @@ src/config/.env
 
 # sphinx autodoc
 docs/build/
+
+# this is main branch, not dev, so exclude docs
+docs/
