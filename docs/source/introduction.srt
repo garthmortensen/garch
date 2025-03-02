@@ -1,4 +1,0 @@
-Introduction
-============
-
-The GARCH Project provides tools for time series analysis using GARCH, ARIMA and other techniques. This documentation covers the installation and usage.
